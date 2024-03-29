@@ -18,7 +18,7 @@
     "graphql": "^15.8.0",
     "graphql-load": "^0.1.1",
     "graphql-tag": "^2.12.6",
-    "graphql-tools": "^7.0.5",
+    "graphql-tools": "^9.0.1",
     "meteor-node-stubs": "^1.1.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
